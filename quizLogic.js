@@ -65,4 +65,15 @@ function checkAnswers() {
 
 document.getElementById("submitBtn").addEventListener("click", checkAnswers);
 
+const timerDisplay = document.getElementById("timer");
+let timeLeft = 30;
+const countdown = setInterval(() => {
+    timeLeft--;
+    timerDisplay.innerText = timeLeft;
+    if (timeLeft <= 0) {
+        clearInterval(countdown);
+        checkAnswers();
+    }
+}, 1000);
+
 loadQuiz();

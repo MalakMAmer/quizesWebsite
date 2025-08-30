@@ -109,7 +109,14 @@ div#wholeContainer div#quizesContainer div#score{
     font-size: 18px;
     font-weight: bold;
 }
-
+p#timerContainer{
+    font-size: 1.2rem;
+}
+#timer {
+    font-size: 1.4rem;
+    font-weight: 900;
+    color: red;
+}
 .eachQuestion {
     margin-bottom: 25px;
 }

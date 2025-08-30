@@ -1,105 +1,84 @@
 {
   "quizzes": [
     {
-      "question": "What is the capital of France?",
-      "options": ["Paris", "London", "Rome", "Berlin"],
-      "answer": "Paris"
-    },
-    {
-      "question": "Which language runs in a web browser?",
-      "options": ["Python", "Java", "C++", "JavaScript"],
-      "answer": "JavaScript"
-    },
-    {
-      "question": "What does CSS stand for?",
+      "question": "What does HTML stand for?",
       "options": [
-        "Central Style Sheets",
-        "Cascading Style Sheets",
-        "Computer Style Sheets",
-        "Creative Style System"
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Text Markup Language",
+        "Hyper Tool Multi Language"
       ],
-      "answer": "Cascading Style Sheets"
+      "answer": "Hyper Text Markup Language"
     },
     {
-      "question": "What is the capital of France?",
-      "options": ["Paris", "London", "Rome", "Berlin"],
-      "answer": "Paris"
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": ["<a>", "<link>", "<href>", "<url>"],
+      "answer": "<a>"
     },
     {
-      "question": "Which language runs in a web browser?",
-      "options": ["Python", "Java", "C++", "JavaScript"],
-      "answer": "JavaScript"
+      "question": "Which HTML element is used to display the largest heading?",
+      "options": ["<h6>", "<h1>", "<heading>", "<head>"],
+      "answer": "<h1>"
     },
     {
-      "question": "What does CSS stand for?",
-      "options": [
-        "Central Style Sheets",
-        "Cascading Style Sheets",
-        "Computer Style Sheets",
-        "Creative Style System"
-      ],
-      "answer": "Cascading Style Sheets"
+      "question": "Which property is used in CSS to change text color?",
+      "options": ["font-color", "color", "text-color", "background-color"],
+      "answer": "color"
     },
     {
-      "question": "What is the capital of France?",
-      "options": ["Paris", "London", "Rome", "Berlin"],
-      "answer": "Paris"
+      "question": "Which HTML element is used for inserting an image?",
+      "options": ["<img>", "<picture>", "<image>", "<src>"],
+      "answer": "<img>"
     },
     {
-      "question": "Which language runs in a web browser?",
-      "options": ["Python", "Java", "C++", "JavaScript"],
-      "answer": "JavaScript"
+      "question": "Which CSS property controls the size of text?",
+      "options": ["text-style", "font-style", "font-size", "text-size"],
+      "answer": "font-size"
     },
     {
-      "question": "What does CSS stand for?",
-      "options": [
-        "Central Style Sheets",
-        "Cascading Style Sheets",
-        "Computer Style Sheets",
-        "Creative Style System"
-      ],
-      "answer": "Cascading Style Sheets"
+      "question": "Which HTML attribute specifies an image source?",
+      "options": ["href", "src", "link", "path"],
+      "answer": "src"
     },
     {
-      "question": "What is the capital of France?",
-      "options": ["Paris", "London", "Rome", "Berlin"],
-      "answer": "Paris"
+      "question": "Which CSS property is used to change the background color?",
+      "options": ["color", "background-color", "bgcolor", "background"],
+      "answer": "background-color"
     },
     {
-      "question": "Which language runs in a web browser?",
-      "options": ["Python", "Java", "C++", "JavaScript"],
-      "answer": "JavaScript"
+      "question": "Which HTML element is used to create an unordered list?",
+      "options": ["<list>", "<ol>", "<ul>", "<li>"],
+      "answer": "<ul>"
     },
     {
-      "question": "What does CSS stand for?",
-      "options": [
-        "Central Style Sheets",
-        "Cascading Style Sheets",
-        "Computer Style Sheets",
-        "Creative Style System"
-      ],
-      "answer": "Cascading Style Sheets"
+      "question": "Which HTML attribute is used to define inline styles?",
+      "options": ["style", "class", "id", "inline"],
+      "answer": "style"
     },
     {
-      "question": "What is the capital of France?",
-      "options": ["Paris", "London", "Rome", "Berlin"],
-      "answer": "Paris"
+      "question": "Which CSS property is used to make text bold?",
+      "options": ["text-style", "font-weight", "font-style", "text-bold"],
+      "answer": "font-weight"
     },
     {
-      "question": "Which language runs in a web browser?",
-      "options": ["Python", "Java", "C++", "JavaScript"],
-      "answer": "JavaScript"
+      "question": "Which HTML element is used to display a table row?",
+      "options": ["<td>", "<th>", "<tr>", "<table-row>"],
+      "answer": "<tr>"
     },
     {
-      "question": "What does CSS stand for?",
-      "options": [
-        "Central Style Sheets",
-        "Cascading Style Sheets",
-        "Computer Style Sheets",
-        "Creative Style System"
-      ],
-      "answer": "Cascading Style Sheets"
+      "question": "Which CSS property is used to center text horizontally?",
+      "options": ["text-align", "align", "center", "font-align"],
+      "answer": "text-align"
+    },
+    {
+      "question": "Which HTML element is used to define important text?",
+      "options": ["<b>", "<i>", "<strong>", "<important>"],
+      "answer": "<strong>"
+    },
+    {
+      "question": "Which CSS property is used to add space inside an element's border?",
+      "options": ["margin", "padding", "border-spacing", "space"],
+      "answer": "padding"
     }
   ]
 }
-
