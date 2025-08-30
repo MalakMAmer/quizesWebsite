@@ -39,7 +39,7 @@ async function loadQuiz() {
 function checkAnswers() {
     const questions = document.querySelectorAll(".eachQuestion");
     let score = 0;
-
+    clearInterval(countdown);
     questions.forEach((qDiv, index) => {
     const selected = qDiv.querySelector("input[type=radio]:checked");
     const resultEl = qDiv.querySelector(".result");
